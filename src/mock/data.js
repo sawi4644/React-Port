@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Hi! Welcome to my website. Built entirely with React and implementing Gatsby. I am a recent graduate of Northwesterns Full-Stack Developer Boot Camp. ',
+    'Hi! Welcome to my website. Built entirely with React and implementing Gatsby. I graduated from The University of Colorado Boulder with a major in Advertising and minor in Technology, Arts, and Media. I always had exteme interests in the infinite possibilities of the digital world. So I now am a recent graduate of Northwesterns Full-Stack Developer Boot Camp. ',
   paragraphTwo:
     'Oustide of coding, I have a full-time position as an Account Coordinator at TPN. I love working within the creative industry whether that be advertising, designing, front-end or back-end developing, personal creativity or client focused. I would love the chance to connect and create something beneficial, fun or completely random. ',
   paragraphThree:
