@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Hi! Welcome to my website. Built entirely with React and implementing Gatsby. I am a current Northwestern Full-Stack Developer Student. ',
+    'Hi! Welcome to my website. Built entirely with React and implementing Gatsby. I am a recent graduate of Northwesterns Full-Stack Developer Boot Camp. ',
   paragraphTwo:
-    'Oustide of coding, I have a full-time position as an Account Coordinator at TPN. I love working within the creative industry whether that be advertising, designing, front-end, back-end, personal, or client focused. I would love the chance to connect and come up with some great ideas. ',
+    'Oustide of coding, I have a full-time position as an Account Coordinator at TPN. I love working within the creative industry whether that be advertising, designing, front-end or back-end developing, personal creativity or client focused. I would love the chance to connect and create something beneficial, fun or completely random. ',
   paragraphThree:
-    'Feel free to look around and inspect how things were built! And please, check out my resume and projects below! ',
+    'I love getting to know other people and building off of one another. Feel free to look around and inspect how things were built! And please, check out my resume and projects below! ',
   resume: 'https://sawi4644.github.io/Assets/resume.pdf', // if no resume, the button will not show up
 };
 
