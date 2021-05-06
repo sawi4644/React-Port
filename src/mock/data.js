@@ -31,6 +31,17 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'powerx.png',
+    title: 'PoweRx',
+    info:
+      'A website created for dentists to sign up and have a digital platform to create RX forms for their patients.',
+    info2:
+      'Implemented React, Mongoose, Firebase Authentication and Tailwind CSS',
+    url: 'https://power-rx.herokuapp.com/signup',
+    repo: 'https://github.com/sawi4644/PoweRx', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'lyric-listeners.png',
     title: 'Lyric Lysteners',
     info:
@@ -60,22 +71,22 @@ export const projectsData = [
     url: '',
     repo: 'https://github.com/sawi4644/make-devour-burger', // if no repo, the button will not show up
   },
-  // {
-  //   id: nanoid(),
-  //   img: 'schedule.png',
-  //   title: 'Work Day Scheduler',
-  //   info: '',
-  //   info2: '',
-  //   url: '',
-  //   repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  // },
+  {
+    id: nanoid(),
+    img: 'fitness.png',
+    title: 'Fitness Tracker',
+    info: '',
+    info2: '',
+    url: 'https://strawberry-cake-32361.herokuapp.com/',
+    repo: 'https://github.com/sawi4644/fitness-tracker', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'sarakatewilson98@gmail.com',
 };
 
 // FOOTER DATA
